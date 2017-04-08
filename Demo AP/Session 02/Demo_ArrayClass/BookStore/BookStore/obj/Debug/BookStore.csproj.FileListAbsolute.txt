@@ -1,0 +1,6 @@
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Demo_ArrayClass\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Demo_ArrayClass\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Demo_ArrayClass\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Demo_ArrayClass\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Demo_ArrayClass\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Demo_ArrayClass\BookStore\BookStore\obj\Debug\BookStore.pdb

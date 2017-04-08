@@ -1,0 +1,12 @@
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\EventDemo\bin\Debug\EventDemo.exe.config
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\EventDemo\bin\Debug\EventDemo.exe
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\EventDemo\bin\Debug\EventDemo.pdb
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\EventDemo\obj\Debug\EventDemo.csprojResolveAssemblyReference.cache
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\EventDemo\obj\Debug\EventDemo.exe
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\EventDemo\obj\Debug\EventDemo.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\EventDemo\bin\Debug\EventDemo.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\EventDemo\bin\Debug\EventDemo.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\EventDemo\bin\Debug\EventDemo.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\EventDemo\obj\Debug\EventDemo.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\EventDemo\obj\Debug\EventDemo.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\EventDemo\obj\Debug\EventDemo.pdb

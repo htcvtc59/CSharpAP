@@ -1,0 +1,17 @@
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\I Love You\bin\Debug\I Love You.exe.config
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\I Love You\bin\Debug\I Love You.exe
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\I Love You\bin\Debug\I Love You.pdb
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\I Love You\obj\Debug\I_Love_You.Properties.Resources.resources
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\I Love You\obj\Debug\I Love You.csproj.GenerateResource.Cache
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\I Love You\obj\Debug\I Love You.exe
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\I Love You\obj\Debug\I Love You.pdb
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\I Love You\obj\Debug\I_Love_You.Love.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\I Love You\obj\Debug\I Love You.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\I Love You\bin\Debug\I Love You.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\I Love You\bin\Debug\I Love You.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\I Love You\bin\Debug\I Love You.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\I Love You\obj\Debug\I_Love_You.Love.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\I Love You\obj\Debug\I_Love_You.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\I Love You\obj\Debug\I Love You.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\I Love You\obj\Debug\I Love You.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\I Love You\obj\Debug\I Love You.pdb

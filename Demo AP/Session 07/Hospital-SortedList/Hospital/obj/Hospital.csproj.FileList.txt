@@ -1,0 +1,5 @@
+bin\Debug\Hospital.exe
+bin\Debug\Hospital.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Hospital.exe
+obj\Debug\Hospital.pdb

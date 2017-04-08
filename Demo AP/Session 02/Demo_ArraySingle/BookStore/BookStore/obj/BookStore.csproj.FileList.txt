@@ -1,0 +1,5 @@
+bin\Debug\BookStore.exe
+bin\Debug\BookStore.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BookStore.exe
+obj\Debug\BookStore.pdb

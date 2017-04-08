@@ -1,0 +1,6 @@
+c:\users\macos\documents\visual studio 2017\Projects\StreamWriter FileStream\StreamWriter FileStream\bin\Debug\StreamWriter FileStream.exe.config
+c:\users\macos\documents\visual studio 2017\Projects\StreamWriter FileStream\StreamWriter FileStream\bin\Debug\StreamWriter FileStream.exe
+c:\users\macos\documents\visual studio 2017\Projects\StreamWriter FileStream\StreamWriter FileStream\bin\Debug\StreamWriter FileStream.pdb
+c:\users\macos\documents\visual studio 2017\Projects\StreamWriter FileStream\StreamWriter FileStream\obj\Debug\StreamWriter FileStream.csprojResolveAssemblyReference.cache
+c:\users\macos\documents\visual studio 2017\Projects\StreamWriter FileStream\StreamWriter FileStream\obj\Debug\StreamWriter FileStream.exe
+c:\users\macos\documents\visual studio 2017\Projects\StreamWriter FileStream\StreamWriter FileStream\obj\Debug\StreamWriter FileStream.pdb

@@ -1,0 +1,12 @@
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\FileDemo\bin\Debug\FileDemo.exe.config
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\FileDemo\bin\Debug\FileDemo.exe
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\FileDemo\bin\Debug\FileDemo.pdb
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\FileDemo\obj\Debug\FileDemo.csprojResolveAssemblyReference.cache
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\FileDemo\obj\Debug\FileDemo.exe
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\FileDemo\obj\Debug\FileDemo.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\FileDemo\bin\Debug\FileDemo.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\FileDemo\bin\Debug\FileDemo.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\FileDemo\bin\Debug\FileDemo.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\FileDemo\obj\Debug\FileDemo.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\FileDemo\obj\Debug\FileDemo.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\FileDemo\obj\Debug\FileDemo.pdb

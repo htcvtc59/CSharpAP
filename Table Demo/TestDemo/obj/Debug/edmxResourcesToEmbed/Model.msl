@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuizModelStoreContainer" CdmEntityContainer="QuizEntities">
+    <EntitySetMapping Name="CAUHOIs">
+      <EntityTypeMapping TypeName="QuizModel.CAUHOI">
+        <MappingFragment StoreEntitySet="CAUHOI">
+          <ScalarProperty Name="MaCauHoi" ColumnName="MaCauHoi" />
+          <ScalarProperty Name="MaDe" ColumnName="MaDe" />
+          <ScalarProperty Name="CauHoi1" ColumnName="CauHoi" />
+          <ScalarProperty Name="DapA" ColumnName="DapA" />
+          <ScalarProperty Name="DapB" ColumnName="DapB" />
+          <ScalarProperty Name="DapC" ColumnName="DapC" />
+          <ScalarProperty Name="DapD" ColumnName="DapD" />
+          <ScalarProperty Name="DapAn" ColumnName="DapAn" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

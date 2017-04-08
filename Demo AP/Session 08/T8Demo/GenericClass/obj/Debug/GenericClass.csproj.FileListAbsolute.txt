@@ -1,0 +1,5 @@
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\GenericClass\bin\Debug\GenericClass.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\GenericClass\bin\Debug\GenericClass.pdb
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\GenericClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\GenericClass\obj\Debug\GenericClass.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\GenericClass\obj\Debug\GenericClass.pdb

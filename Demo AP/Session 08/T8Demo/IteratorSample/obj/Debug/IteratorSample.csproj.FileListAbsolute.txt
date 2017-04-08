@@ -1,0 +1,5 @@
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\IteratorSample\bin\Debug\IteratorSample.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\IteratorSample\bin\Debug\IteratorSample.pdb
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\IteratorSample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\IteratorSample\obj\Debug\IteratorSample.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\IteratorSample\obj\Debug\IteratorSample.pdb

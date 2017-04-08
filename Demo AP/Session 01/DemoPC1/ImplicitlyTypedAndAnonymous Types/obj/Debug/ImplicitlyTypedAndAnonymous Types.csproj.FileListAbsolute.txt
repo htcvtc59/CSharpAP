@@ -1,0 +1,10 @@
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\ImplicitlyTypedAndAnonymous Types\bin\Debug\ImplicitlyTypedAndAnonymous Types.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\ImplicitlyTypedAndAnonymous Types\bin\Debug\ImplicitlyTypedAndAnonymous Types.pdb
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\ImplicitlyTypedAndAnonymous Types\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\ImplicitlyTypedAndAnonymous Types\obj\Debug\ImplicitlyTypedAndAnonymous Types.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\ImplicitlyTypedAndAnonymous Types\obj\Debug\ImplicitlyTypedAndAnonymous Types.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\ImplicitlyTypedAndAnonymous Types\bin\Debug\ImplicitlyTypedAndAnonymous Types.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\ImplicitlyTypedAndAnonymous Types\bin\Debug\ImplicitlyTypedAndAnonymous Types.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\ImplicitlyTypedAndAnonymous Types\bin\Debug\ImplicitlyTypedAndAnonymous Types.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\ImplicitlyTypedAndAnonymous Types\obj\Debug\ImplicitlyTypedAndAnonymous Types.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\ImplicitlyTypedAndAnonymous Types\obj\Debug\ImplicitlyTypedAndAnonymous Types.pdb

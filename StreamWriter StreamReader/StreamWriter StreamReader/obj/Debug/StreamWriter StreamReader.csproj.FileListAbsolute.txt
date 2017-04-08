@@ -1,0 +1,5 @@
+C:\Users\MacOS\documents\visual studio 2017\Projects\StreamWriter StreamReader\StreamWriter StreamReader\bin\Debug\StreamWriter StreamReader.exe.config
+C:\Users\MacOS\documents\visual studio 2017\Projects\StreamWriter StreamReader\StreamWriter StreamReader\bin\Debug\StreamWriter StreamReader.exe
+C:\Users\MacOS\documents\visual studio 2017\Projects\StreamWriter StreamReader\StreamWriter StreamReader\bin\Debug\StreamWriter StreamReader.pdb
+C:\Users\MacOS\documents\visual studio 2017\Projects\StreamWriter StreamReader\StreamWriter StreamReader\obj\Debug\StreamWriter StreamReader.exe
+C:\Users\MacOS\documents\visual studio 2017\Projects\StreamWriter StreamReader\StreamWriter StreamReader\obj\Debug\StreamWriter StreamReader.pdb

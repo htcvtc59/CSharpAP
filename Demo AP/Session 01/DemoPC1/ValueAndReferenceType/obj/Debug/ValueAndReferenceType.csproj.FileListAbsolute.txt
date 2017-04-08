@@ -1,0 +1,10 @@
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.pdb
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\ValueAndReferenceType\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\ValueAndReferenceType\bin\Debug\ValueAndReferenceType.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\ValueAndReferenceType\obj\Debug\ValueAndReferenceType.pdb

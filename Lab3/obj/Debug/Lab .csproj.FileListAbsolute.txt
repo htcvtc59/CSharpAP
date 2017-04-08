@@ -1,0 +1,6 @@
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab3\bin\Debug\ConsoleApp2.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab3\bin\Debug\ConsoleApp2.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab3\bin\Debug\ConsoleApp2.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab3\obj\Debug\Lab .csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab3\obj\Debug\ConsoleApp2.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab3\obj\Debug\ConsoleApp2.pdb

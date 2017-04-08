@@ -1,0 +1,17 @@
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\bin\Debug\LoginWFA.exe.config
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\bin\Debug\LoginWFA.exe
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\bin\Debug\LoginWFA.pdb
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\obj\Debug\LoginWFA.csprojResolveAssemblyReference.cache
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\obj\Debug\LoginWFA.Form1.resources
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\obj\Debug\LoginWFA.Properties.Resources.resources
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\obj\Debug\LoginWFA.csproj.GenerateResource.Cache
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\obj\Debug\LoginWFA.exe
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\obj\Debug\LoginWFA.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\bin\Debug\LoginWFA.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\bin\Debug\LoginWFA.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\bin\Debug\LoginWFA.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\obj\Debug\LoginWFA.Form1.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\obj\Debug\LoginWFA.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\obj\Debug\LoginWFA.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\obj\Debug\LoginWFA.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\obj\Debug\LoginWFA.pdb

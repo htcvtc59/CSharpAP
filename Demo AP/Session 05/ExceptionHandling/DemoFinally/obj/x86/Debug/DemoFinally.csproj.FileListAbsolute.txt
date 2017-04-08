@@ -1,0 +1,5 @@
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoFinally\bin\Debug\DemoFinally.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoFinally\bin\Debug\DemoFinally.pdb
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoFinally\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoFinally\obj\x86\Debug\DemoFinally.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoFinally\obj\x86\Debug\DemoFinally.pdb

@@ -1,0 +1,5 @@
+C:\Users\W7\Documents\Visual Studio 2010\Projects\Session06\Session06\Example01\bin\Debug\Example01.exe
+C:\Users\W7\Documents\Visual Studio 2010\Projects\Session06\Session06\Example01\bin\Debug\Example01.pdb
+C:\Users\W7\Documents\Visual Studio 2010\Projects\Session06\Session06\Example01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\W7\Documents\Visual Studio 2010\Projects\Session06\Session06\Example01\obj\x86\Debug\Example01.exe
+C:\Users\W7\Documents\Visual Studio 2010\Projects\Session06\Session06\Example01\obj\x86\Debug\Example01.pdb

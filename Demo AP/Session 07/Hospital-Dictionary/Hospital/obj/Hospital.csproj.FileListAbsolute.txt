@@ -1,0 +1,5 @@
+D:\FAPTECH\C#\CLASS\Class7\SourceCodeModule13\Demo4\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\FAPTECH\C#\CLASS\Class7\SourceCodeModule13\Demo4\Hospital\Hospital\obj\Debug\Hospital.pdb
+D:\FAPTECH\C#\CLASS\Class7\SourceCodeModule13\Demo4\Hospital\Hospital\bin\Debug\Hospital.exe
+D:\FAPTECH\C#\CLASS\Class7\SourceCodeModule13\Demo4\Hospital\Hospital\bin\Debug\Hospital.pdb
+D:\FAPTECH\C#\CLASS\Class7\SourceCodeModule13\Demo4\Hospital\Hospital\obj\Debug\ResolveAssemblyReference.cache

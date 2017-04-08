@@ -1,0 +1,12 @@
+c:\users\datht\documents\visual studio 2015\Projects\AssignmentDemo\AssignmentDemo\bin\Debug\AssignmentDemo.exe.config
+c:\users\datht\documents\visual studio 2015\Projects\AssignmentDemo\AssignmentDemo\bin\Debug\AssignmentDemo.exe
+c:\users\datht\documents\visual studio 2015\Projects\AssignmentDemo\AssignmentDemo\bin\Debug\AssignmentDemo.pdb
+c:\users\datht\documents\visual studio 2015\Projects\AssignmentDemo\AssignmentDemo\obj\Debug\AssignmentDemo.csprojResolveAssemblyReference.cache
+c:\users\datht\documents\visual studio 2015\Projects\AssignmentDemo\AssignmentDemo\obj\Debug\AssignmentDemo.Form1.resources
+c:\users\datht\documents\visual studio 2015\Projects\AssignmentDemo\AssignmentDemo\obj\Debug\AssignmentDemo.Properties.Resources.resources
+c:\users\datht\documents\visual studio 2015\Projects\AssignmentDemo\AssignmentDemo\obj\Debug\AssignmentDemo.csproj.GenerateResource.Cache
+c:\users\datht\documents\visual studio 2015\Projects\AssignmentDemo\AssignmentDemo\obj\Debug\AssignmentDemo.exe
+c:\users\datht\documents\visual studio 2015\Projects\AssignmentDemo\AssignmentDemo\obj\Debug\AssignmentDemo.pdb
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\AssignmentDemo\AssignmentDemo\bin\Debug\AssignmentDemo.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\AssignmentDemo\AssignmentDemo\obj\Debug\AssignmentDemo.exe
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\AssignmentDemo\AssignmentDemo\obj\Debug\AssignmentDemo.pdb

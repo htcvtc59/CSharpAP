@@ -1,0 +1,17 @@
+D:\Bai Tap C#\InvokeDemo\InvokeDemo\bin\Debug\InvokeDemo.exe
+D:\Bai Tap C#\InvokeDemo\InvokeDemo\bin\Debug\InvokeDemo.pdb
+D:\Bai Tap C#\InvokeDemo\InvokeDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Bai Tap C#\InvokeDemo\InvokeDemo\obj\x86\Debug\InvokeDemo.MainForm.resources
+D:\Bai Tap C#\InvokeDemo\InvokeDemo\obj\x86\Debug\InvokeDemo.Properties.Resources.resources
+D:\Bai Tap C#\InvokeDemo\InvokeDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Bai Tap C#\InvokeDemo\InvokeDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Bai Tap C#\InvokeDemo\InvokeDemo\obj\x86\Debug\InvokeDemo.exe
+D:\Bai Tap C#\InvokeDemo\InvokeDemo\obj\x86\Debug\InvokeDemo.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\InvokeDemo\InvokeDemo\bin\Debug\InvokeDemo.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\InvokeDemo\InvokeDemo\bin\Debug\InvokeDemo.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\InvokeDemo\InvokeDemo\obj\x86\Debug\InvokeDemo.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\InvokeDemo\InvokeDemo\obj\x86\Debug\InvokeDemo.MainForm.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\InvokeDemo\InvokeDemo\obj\x86\Debug\InvokeDemo.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\InvokeDemo\InvokeDemo\obj\x86\Debug\InvokeDemo.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\InvokeDemo\InvokeDemo\obj\x86\Debug\InvokeDemo.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\InvokeDemo\InvokeDemo\obj\x86\Debug\InvokeDemo.pdb

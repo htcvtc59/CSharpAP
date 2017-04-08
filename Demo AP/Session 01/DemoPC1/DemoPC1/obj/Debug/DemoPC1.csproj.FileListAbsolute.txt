@@ -1,0 +1,11 @@
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\DemoPC1\bin\Debug\DemoPC1.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\DemoPC1\bin\Debug\DemoPC1.pdb
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\DemoPC1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\DemoPC1\obj\Debug\DemoPC1.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\DemoPC1\obj\Debug\DemoPC1.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\DemoPC1\bin\Debug\DemoPC1.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\DemoPC1\bin\Debug\DemoPC1.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\DemoPC1\bin\Debug\DemoPC1.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\DemoPC1\obj\Debug\DemoPC1.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\DemoPC1\obj\Debug\DemoPC1.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\DemoPC1\obj\Debug\DemoPC1.pdb

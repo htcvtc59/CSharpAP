@@ -1,0 +1,17 @@
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\Common Dialog\bin\Debug\Common Dialog.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\Common Dialog\bin\Debug\Common Dialog.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\Common Dialog\bin\Debug\Common Dialog.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\Common Dialog\obj\Debug\Common Dialog.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\Common Dialog\obj\Debug\Common_Dialog.Form1.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\Common Dialog\obj\Debug\Common_Dialog.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\Common Dialog\obj\Debug\Common Dialog.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\Common Dialog\obj\Debug\Common Dialog.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\Common Dialog\obj\Debug\Common Dialog.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Common Dialog\bin\Debug\Common Dialog.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Common Dialog\bin\Debug\Common Dialog.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Common Dialog\bin\Debug\Common Dialog.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Common Dialog\obj\Debug\Common_Dialog.Form1.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Common Dialog\obj\Debug\Common_Dialog.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Common Dialog\obj\Debug\Common Dialog.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Common Dialog\obj\Debug\Common Dialog.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Common Dialog\obj\Debug\Common Dialog.pdb

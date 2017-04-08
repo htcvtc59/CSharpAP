@@ -1,0 +1,5 @@
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Method\bin\Debug\Method.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Method\bin\Debug\Method.pdb
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Method\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Method\obj\Debug\Method.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Method\obj\Debug\Method.pdb

@@ -1,0 +1,9 @@
+C:\Users\MacOS\documents\visual studio 2017\Projects\AP CSharp\bin\Debug\AP CSharp.exe.config
+C:\Users\MacOS\documents\visual studio 2017\Projects\AP CSharp\bin\Debug\AP CSharp.exe
+C:\Users\MacOS\documents\visual studio 2017\Projects\AP CSharp\bin\Debug\AP CSharp.pdb
+C:\Users\MacOS\documents\visual studio 2017\Projects\AP CSharp\obj\Debug\ContactManager.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\documents\visual studio 2017\Projects\AP CSharp\obj\Debug\AP CSharp.exe
+C:\Users\MacOS\documents\visual studio 2017\Projects\AP CSharp\obj\Debug\AP CSharp.pdb
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AP CSharp\bin\Debug\AP CSharp.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AP CSharp\obj\Debug\AP CSharp.exe
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\AP CSharp\obj\Debug\AP CSharp.pdb

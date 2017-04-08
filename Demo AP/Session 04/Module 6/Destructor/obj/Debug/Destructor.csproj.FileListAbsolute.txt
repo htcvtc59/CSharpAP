@@ -1,0 +1,5 @@
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Destructor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Destructor\bin\Debug\Destructor.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Destructor\bin\Debug\Destructor.pdb
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Destructor\obj\Debug\Destructor.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Destructor\obj\Debug\Destructor.pdb

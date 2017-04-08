@@ -1,0 +1,5 @@
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 7\Constructor inheritance\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 7\Constructor inheritance\bin\Debug\Constructor inheritance.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 7\Constructor inheritance\bin\Debug\Constructor inheritance.pdb
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 7\Constructor inheritance\obj\Debug\Constructor inheritance.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 7\Constructor inheritance\obj\Debug\Constructor inheritance.pdb

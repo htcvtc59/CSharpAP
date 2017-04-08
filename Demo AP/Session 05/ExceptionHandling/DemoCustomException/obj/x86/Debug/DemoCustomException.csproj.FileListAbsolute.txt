@@ -1,0 +1,5 @@
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoCustomException\bin\Debug\DemoCustomException.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoCustomException\bin\Debug\DemoCustomException.pdb
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoCustomException\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoCustomException\obj\x86\Debug\DemoCustomException.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoCustomException\obj\x86\Debug\DemoCustomException.pdb

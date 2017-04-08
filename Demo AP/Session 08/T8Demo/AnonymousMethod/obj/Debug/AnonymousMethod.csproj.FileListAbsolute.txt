@@ -1,0 +1,5 @@
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\AnonymousMethod\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\AnonymousMethod\obj\Debug\AnonymousMethod.pdb

@@ -1,0 +1,5 @@
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\PartialTypes\bin\Debug\PartialTypes.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\PartialTypes\bin\Debug\PartialTypes.pdb
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\PartialTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\PartialTypes\obj\Debug\PartialTypes.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\T8Demo\PartialTypes\obj\Debug\PartialTypes.pdb

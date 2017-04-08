@@ -1,0 +1,5 @@
+N:\Visual Studio 2010\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+N:\Visual Studio 2010\Projects\ExceptionHandling\ExceptionHandling\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\ExceptionHandling\ExceptionHandling\obj\x86\Debug\ExceptionHandling.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\ExceptionHandling\obj\x86\Debug\ExceptionHandling.pdb

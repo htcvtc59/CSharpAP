@@ -1,0 +1,5 @@
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Static Method\bin\Debug\Static Method.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Static Method\bin\Debug\Static Method.pdb
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Static Method\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Static Method\obj\Debug\Static Method.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Static Method\obj\Debug\Static Method.pdb

@@ -1,0 +1,5 @@
+c:\Users\MacOS\documents\visual studio 2017\Projects\Lab6\Lab6.2\bin\Debug\Lab6.2.exe.config
+c:\Users\MacOS\documents\visual studio 2017\Projects\Lab6\Lab6.2\bin\Debug\Lab6.2.exe
+c:\Users\MacOS\documents\visual studio 2017\Projects\Lab6\Lab6.2\bin\Debug\Lab6.2.pdb
+c:\Users\MacOS\documents\visual studio 2017\Projects\Lab6\Lab6.2\obj\Debug\Lab6.2.exe
+c:\Users\MacOS\documents\visual studio 2017\Projects\Lab6\Lab6.2\obj\Debug\Lab6.2.pdb

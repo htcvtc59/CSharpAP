@@ -1,0 +1,9 @@
+c:\users\macos\documents\visual studio 2015\Projects\Datetimepicker\Datetimepicker\bin\Debug\Datetimepicker.exe.config
+c:\users\macos\documents\visual studio 2015\Projects\Datetimepicker\Datetimepicker\bin\Debug\Datetimepicker.exe
+c:\users\macos\documents\visual studio 2015\Projects\Datetimepicker\Datetimepicker\bin\Debug\Datetimepicker.pdb
+c:\users\macos\documents\visual studio 2015\Projects\Datetimepicker\Datetimepicker\obj\Debug\Datetimepicker.csprojResolveAssemblyReference.cache
+c:\users\macos\documents\visual studio 2015\Projects\Datetimepicker\Datetimepicker\obj\Debug\Datetimepicker.Form1.resources
+c:\users\macos\documents\visual studio 2015\Projects\Datetimepicker\Datetimepicker\obj\Debug\Datetimepicker.Properties.Resources.resources
+c:\users\macos\documents\visual studio 2015\Projects\Datetimepicker\Datetimepicker\obj\Debug\Datetimepicker.csproj.GenerateResource.Cache
+c:\users\macos\documents\visual studio 2015\Projects\Datetimepicker\Datetimepicker\obj\Debug\Datetimepicker.exe
+c:\users\macos\documents\visual studio 2015\Projects\Datetimepicker\Datetimepicker\obj\Debug\Datetimepicker.pdb

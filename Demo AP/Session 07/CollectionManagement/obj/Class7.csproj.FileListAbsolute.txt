@@ -1,0 +1,10 @@
+D:\FAPTECH\C#\CLASS\C0909I\Class7\obj\Debug\ResolveAssemblyReference.cache
+D:\FAPTECH\C#\CLASS\C0909I\Class7\bin\Debug\Class7.exe
+D:\FAPTECH\C#\CLASS\C0909I\Class7\bin\Debug\Class7.pdb
+D:\FAPTECH\C#\CLASS\C0909I\Class7\obj\Debug\Class7.exe
+D:\FAPTECH\C#\CLASS\C0909I\Class7\obj\Debug\Class7.pdb
+D:\FAPTECH\C#\CLASS\Class7\Class7\bin\Debug\Class7.exe
+D:\FAPTECH\C#\CLASS\Class7\Class7\bin\Debug\Class7.pdb
+D:\FAPTECH\C#\CLASS\Class7\Class7\obj\Debug\ResolveAssemblyReference.cache
+D:\FAPTECH\C#\CLASS\Class7\Class7\obj\Debug\Class7.exe
+D:\FAPTECH\C#\CLASS\Class7\Class7\obj\Debug\Class7.pdb

@@ -1,0 +1,16 @@
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\RichTextBox, MenuStrip và ToolStrip\bin\Debug\RichTextBox, MenuStrip và ToolStrip.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\RichTextBox, MenuStrip và ToolStrip\bin\Debug\RichTextBox, MenuStrip và ToolStrip.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\RichTextBox, MenuStrip và ToolStrip\bin\Debug\RichTextBox, MenuStrip và ToolStrip.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\RichTextBox, MenuStrip và ToolStrip\obj\Debug\RichTextBox__MenuStrip_và_ToolStrip.Form1.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\RichTextBox, MenuStrip và ToolStrip\obj\Debug\RichTextBox__MenuStrip_và_ToolStrip.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\RichTextBox, MenuStrip và ToolStrip\obj\Debug\RichTextBox, MenuStrip và ToolStrip.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\RichTextBox, MenuStrip và ToolStrip\obj\Debug\RichTextBox, MenuStrip và ToolStrip.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\RichTextBox, MenuStrip và ToolStrip\obj\Debug\RichTextBox, MenuStrip và ToolStrip.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\RichTextBox, MenuStrip và ToolStrip\bin\Debug\RichTextBox, MenuStrip và ToolStrip.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\RichTextBox, MenuStrip và ToolStrip\bin\Debug\RichTextBox, MenuStrip và ToolStrip.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\RichTextBox, MenuStrip và ToolStrip\bin\Debug\RichTextBox, MenuStrip và ToolStrip.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\RichTextBox, MenuStrip và ToolStrip\obj\Debug\RichTextBox__MenuStrip_và_ToolStrip.Form1.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\RichTextBox, MenuStrip và ToolStrip\obj\Debug\RichTextBox__MenuStrip_và_ToolStrip.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\RichTextBox, MenuStrip và ToolStrip\obj\Debug\RichTextBox, MenuStrip và ToolStrip.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\RichTextBox, MenuStrip và ToolStrip\obj\Debug\RichTextBox, MenuStrip và ToolStrip.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\RichTextBox, MenuStrip và ToolStrip\obj\Debug\RichTextBox, MenuStrip và ToolStrip.pdb

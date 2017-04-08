@@ -1,0 +1,5 @@
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoExceptionProperties\bin\Debug\DemoExceptionProperties.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoExceptionProperties\bin\Debug\DemoExceptionProperties.pdb
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoExceptionProperties\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoExceptionProperties\obj\x86\Debug\DemoExceptionProperties.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoExceptionProperties\obj\x86\Debug\DemoExceptionProperties.pdb

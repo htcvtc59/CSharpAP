@@ -1,0 +1,6 @@
+c:\users\macos\documents\visual studio 2017\Projects\Reverse + Array\Reverse + Array\bin\Debug\Reverse + Array.exe.config
+c:\users\macos\documents\visual studio 2017\Projects\Reverse + Array\Reverse + Array\bin\Debug\Reverse + Array.exe
+c:\users\macos\documents\visual studio 2017\Projects\Reverse + Array\Reverse + Array\bin\Debug\Reverse + Array.pdb
+c:\users\macos\documents\visual studio 2017\Projects\Reverse + Array\Reverse + Array\obj\Debug\Reverse + Array.csprojResolveAssemblyReference.cache
+c:\users\macos\documents\visual studio 2017\Projects\Reverse + Array\Reverse + Array\obj\Debug\Reverse + Array.exe
+c:\users\macos\documents\visual studio 2017\Projects\Reverse + Array\Reverse + Array\obj\Debug\Reverse + Array.pdb

@@ -1,0 +1,5 @@
+bin\Debug\School.exe
+bin\Debug\School.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\School.exe
+obj\Debug\School.pdb

@@ -1,0 +1,5 @@
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Anonymous Type\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Anonymous Type\bin\Debug\Anonymous Type.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Anonymous Type\bin\Debug\Anonymous Type.pdb
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Anonymous Type\obj\Debug\Anonymous Type.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\Anonymous Type\obj\Debug\Anonymous Type.pdb

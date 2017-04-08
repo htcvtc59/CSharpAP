@@ -1,0 +1,6 @@
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab7\Lab 7.4 Dictionary\obj\Debug\Lab7.4 Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab7\Lab 7.4 Dictionary\bin\Debug\Lab 7.4 Dictionary.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab7\Lab 7.4 Dictionary\bin\Debug\Lab 7.4 Dictionary.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab7\Lab 7.4 Dictionary\bin\Debug\Lab 7.4 Dictionary.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab7\Lab 7.4 Dictionary\obj\Debug\Lab 7.4 Dictionary.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Lab7\Lab 7.4 Dictionary\obj\Debug\Lab 7.4 Dictionary.pdb

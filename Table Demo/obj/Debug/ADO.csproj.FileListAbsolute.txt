@@ -1,0 +1,7 @@
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Table\bin\Debug\Table.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Table\bin\Debug\Table.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Table\bin\Debug\Table.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Table\obj\Debug\Table.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Table\obj\Debug\ADO.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Table\obj\Debug\Table.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Table\obj\Debug\Table.pdb

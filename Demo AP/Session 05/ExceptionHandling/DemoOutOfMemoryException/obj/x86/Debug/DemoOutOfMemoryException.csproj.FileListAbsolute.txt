@@ -1,0 +1,5 @@
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoOutOfMemoryException\bin\Debug\DemoOutOfMemoryException.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoOutOfMemoryException\bin\Debug\DemoOutOfMemoryException.pdb
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoOutOfMemoryException\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoOutOfMemoryException\obj\x86\Debug\DemoOutOfMemoryException.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoOutOfMemoryException\obj\x86\Debug\DemoOutOfMemoryException.pdb

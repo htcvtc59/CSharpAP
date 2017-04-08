@@ -1,0 +1,6 @@
+c:\users\macos\documents\visual studio 2017\Projects\DemoCollection\DemoCollection\bin\Debug\DemoCollection.exe.config
+c:\users\macos\documents\visual studio 2017\Projects\DemoCollection\DemoCollection\bin\Debug\DemoCollection.exe
+c:\users\macos\documents\visual studio 2017\Projects\DemoCollection\DemoCollection\bin\Debug\DemoCollection.pdb
+c:\users\macos\documents\visual studio 2017\Projects\DemoCollection\DemoCollection\obj\Debug\DemoCollection.csprojResolveAssemblyReference.cache
+c:\users\macos\documents\visual studio 2017\Projects\DemoCollection\DemoCollection\obj\Debug\DemoCollection.exe
+c:\users\macos\documents\visual studio 2017\Projects\DemoCollection\DemoCollection\obj\Debug\DemoCollection.pdb

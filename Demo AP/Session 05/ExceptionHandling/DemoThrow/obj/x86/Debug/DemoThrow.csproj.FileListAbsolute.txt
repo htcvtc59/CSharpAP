@@ -1,0 +1,5 @@
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoThrow\bin\Debug\DemoThrow.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoThrow\bin\Debug\DemoThrow.pdb
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoThrow\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoThrow\obj\x86\Debug\DemoThrow.exe
+N:\Visual Studio 2010\Projects\ExceptionHandling\DemoThrow\obj\x86\Debug\DemoThrow.pdb

@@ -1,0 +1,17 @@
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ListBox\bin\Debug\ListBox.exe.config
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ListBox\bin\Debug\ListBox.exe
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ListBox\bin\Debug\ListBox.pdb
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ListBox\obj\Debug\ListBox.Form1.resources
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ListBox\obj\Debug\ListBox.csproj.GenerateResource.Cache
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ListBox\obj\Debug\ListBox.exe
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ListBox\obj\Debug\ListBox.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\LoginWFA\ListBox\obj\Debug\ListBox.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ListBox\bin\Debug\ListBox.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ListBox\bin\Debug\ListBox.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ListBox\obj\Debug\ListBox.Form1.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ListBox\obj\Debug\ListBox.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ListBox\obj\Debug\ListBox.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ListBox\obj\Debug\ListBox.pdb

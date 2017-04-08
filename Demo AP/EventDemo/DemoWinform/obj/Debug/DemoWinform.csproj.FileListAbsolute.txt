@@ -1,0 +1,18 @@
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\DemoWinform\bin\Debug\DemoWinform.exe.config
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\DemoWinform\obj\Debug\DemoWinform.csprojResolveAssemblyReference.cache
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\DemoWinform\obj\Debug\DemoWinform.Form1.resources
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\DemoWinform\obj\Debug\DemoWinform.Properties.Resources.resources
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\DemoWinform\obj\Debug\DemoWinform.csproj.GenerateResource.Cache
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\DemoWinform\bin\Debug\DemoWinform.exe
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\DemoWinform\bin\Debug\DemoWinform.pdb
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\DemoWinform\obj\Debug\DemoWinform.exe
+c:\users\datht\documents\visual studio 2012\Projects\EventDemo\DemoWinform\obj\Debug\DemoWinform.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\DemoWinform\bin\Debug\DemoWinform.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\DemoWinform\bin\Debug\DemoWinform.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\DemoWinform\bin\Debug\DemoWinform.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\DemoWinform\obj\Debug\DemoWinform.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\DemoWinform\obj\Debug\DemoWinform.Form1.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\DemoWinform\obj\Debug\DemoWinform.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\DemoWinform\obj\Debug\DemoWinform.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\DemoWinform\obj\Debug\DemoWinform.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\EventDemo\DemoWinform\obj\Debug\DemoWinform.pdb

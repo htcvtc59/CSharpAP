@@ -1,0 +1,11 @@
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\OutputFormat\bin\Debug\OutputFormat.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\OutputFormat\bin\Debug\OutputFormat.pdb
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\OutputFormat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\OutputFormat\obj\Debug\OutputFormat.exe
+C:\Users\Do\Documents\Visual Studio 2008\Projects\DemoPC1\OutputFormat\obj\Debug\OutputFormat.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\OutputFormat\bin\Debug\OutputFormat.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\OutputFormat\bin\Debug\OutputFormat.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\OutputFormat\bin\Debug\OutputFormat.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\OutputFormat\obj\Debug\OutputFormat.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\OutputFormat\obj\Debug\OutputFormat.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 01\DemoPC1\OutputFormat\obj\Debug\OutputFormat.pdb

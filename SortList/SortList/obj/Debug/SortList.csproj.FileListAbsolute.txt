@@ -1,0 +1,6 @@
+c:\users\macos\documents\visual studio 2017\Projects\SortList\SortList\bin\Debug\SortList.exe.config
+c:\users\macos\documents\visual studio 2017\Projects\SortList\SortList\bin\Debug\SortList.exe
+c:\users\macos\documents\visual studio 2017\Projects\SortList\SortList\bin\Debug\SortList.pdb
+c:\users\macos\documents\visual studio 2017\Projects\SortList\SortList\obj\Debug\SortList.exe
+c:\users\macos\documents\visual studio 2017\Projects\SortList\SortList\obj\Debug\SortList.pdb
+c:\users\macos\documents\visual studio 2017\Projects\SortList\SortList\obj\Debug\SortList.csprojResolveAssemblyReference.cache

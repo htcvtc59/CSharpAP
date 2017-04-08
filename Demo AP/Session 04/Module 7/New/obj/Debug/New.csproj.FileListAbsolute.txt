@@ -1,0 +1,5 @@
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 7\New\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 7\New\bin\Debug\New.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 7\New\bin\Debug\New.pdb
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 7\New\obj\Debug\New.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 7\New\obj\Debug\New.pdb

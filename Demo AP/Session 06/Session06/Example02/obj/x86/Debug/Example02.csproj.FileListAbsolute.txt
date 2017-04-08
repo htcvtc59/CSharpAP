@@ -1,0 +1,5 @@
+C:\Users\W7\Documents\Visual Studio 2010\Projects\Session06\Session06\Example02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\W7\Documents\Visual Studio 2010\Projects\Session06\Session06\Example02\bin\Debug\Example02.exe
+C:\Users\W7\Documents\Visual Studio 2010\Projects\Session06\Session06\Example02\bin\Debug\Example02.pdb
+C:\Users\W7\Documents\Visual Studio 2010\Projects\Session06\Session06\Example02\obj\x86\Debug\Example02.exe
+C:\Users\W7\Documents\Visual Studio 2010\Projects\Session06\Session06\Example02\obj\x86\Debug\Example02.pdb

@@ -1,0 +1,10 @@
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\BinaryFileDemo\bin\Debug\BinaryFileDemo.exe.config
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\BinaryFileDemo\bin\Debug\BinaryFileDemo.exe
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\BinaryFileDemo\bin\Debug\BinaryFileDemo.pdb
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\BinaryFileDemo\obj\Debug\BinaryFileDemo.exe
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\BinaryFileDemo\obj\Debug\BinaryFileDemo.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\BinaryFileDemo\bin\Debug\BinaryFileDemo.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\BinaryFileDemo\bin\Debug\BinaryFileDemo.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\BinaryFileDemo\bin\Debug\BinaryFileDemo.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\BinaryFileDemo\obj\Debug\BinaryFileDemo.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\BinaryFileDemo\obj\Debug\BinaryFileDemo.pdb

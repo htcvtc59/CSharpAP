@@ -1,0 +1,17 @@
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ComboBox\bin\Debug\ComboBox.exe.config
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ComboBox\bin\Debug\ComboBox.exe
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ComboBox\bin\Debug\ComboBox.pdb
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ComboBox\obj\Debug\ComboBox.csprojResolveAssemblyReference.cache
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ComboBox\obj\Debug\ComboBox.Form1.resources
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.Cache
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ComboBox\obj\Debug\ComboBox.exe
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\ComboBox\obj\Debug\ComboBox.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\ComboBox\obj\Debug\ComboBox.pdb

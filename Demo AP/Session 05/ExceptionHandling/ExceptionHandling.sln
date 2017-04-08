@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCheckedUnchecked", "ExceptionHandling\DemoCheckedUnchecked.csproj", "{0E53FB1A-C404-4BCE-ABF4-AC52891C8DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoExceptionProperties", "DemoExceptionProperties\DemoExceptionProperties.csproj", "{65880AE7-5080-4EC2-9169-2438A3B18742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoExceptionData", "DemoExceptionData\DemoExceptionData.csproj", "{9DCBCC13-A57C-44EA-B68B-A8948E03A400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoThrow", "DemoThrow\DemoThrow.csproj", "{A885D2D0-68C7-4AA4-A55E-A2EE76C061A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCatch", "DemoCatch\DemoCatch.csproj", "{6310C597-742F-4F07-BB10-355E9E52C33C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFinally", "DemoFinally\DemoFinally.csproj", "{C05200E0-1D49-44BC-B19F-DE45A535EFC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoOutOfMemoryException", "DemoOutOfMemoryException\DemoOutOfMemoryException.csproj", "{F6F44E5A-3B17-4466-9714-F6C8795E1B68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCustomException", "DemoCustomException\DemoCustomException.csproj", "{20F420F3-E585-4789-93D5-1C0198E9A839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E53FB1A-C404-4BCE-ABF4-AC52891C8DB6}.Debug|x86.ActiveCfg = Debug|x86
+		{0E53FB1A-C404-4BCE-ABF4-AC52891C8DB6}.Debug|x86.Build.0 = Debug|x86
+		{0E53FB1A-C404-4BCE-ABF4-AC52891C8DB6}.Release|x86.ActiveCfg = Release|x86
+		{0E53FB1A-C404-4BCE-ABF4-AC52891C8DB6}.Release|x86.Build.0 = Release|x86
+		{65880AE7-5080-4EC2-9169-2438A3B18742}.Debug|x86.ActiveCfg = Debug|x86
+		{65880AE7-5080-4EC2-9169-2438A3B18742}.Debug|x86.Build.0 = Debug|x86
+		{65880AE7-5080-4EC2-9169-2438A3B18742}.Release|x86.ActiveCfg = Release|x86
+		{65880AE7-5080-4EC2-9169-2438A3B18742}.Release|x86.Build.0 = Release|x86
+		{9DCBCC13-A57C-44EA-B68B-A8948E03A400}.Debug|x86.ActiveCfg = Debug|x86
+		{9DCBCC13-A57C-44EA-B68B-A8948E03A400}.Debug|x86.Build.0 = Debug|x86
+		{9DCBCC13-A57C-44EA-B68B-A8948E03A400}.Release|x86.ActiveCfg = Release|x86
+		{9DCBCC13-A57C-44EA-B68B-A8948E03A400}.Release|x86.Build.0 = Release|x86
+		{A885D2D0-68C7-4AA4-A55E-A2EE76C061A5}.Debug|x86.ActiveCfg = Debug|x86
+		{A885D2D0-68C7-4AA4-A55E-A2EE76C061A5}.Debug|x86.Build.0 = Debug|x86
+		{A885D2D0-68C7-4AA4-A55E-A2EE76C061A5}.Release|x86.ActiveCfg = Release|x86
+		{A885D2D0-68C7-4AA4-A55E-A2EE76C061A5}.Release|x86.Build.0 = Release|x86
+		{6310C597-742F-4F07-BB10-355E9E52C33C}.Debug|x86.ActiveCfg = Debug|x86
+		{6310C597-742F-4F07-BB10-355E9E52C33C}.Debug|x86.Build.0 = Debug|x86
+		{6310C597-742F-4F07-BB10-355E9E52C33C}.Release|x86.ActiveCfg = Release|x86
+		{6310C597-742F-4F07-BB10-355E9E52C33C}.Release|x86.Build.0 = Release|x86
+		{C05200E0-1D49-44BC-B19F-DE45A535EFC5}.Debug|x86.ActiveCfg = Debug|x86
+		{C05200E0-1D49-44BC-B19F-DE45A535EFC5}.Debug|x86.Build.0 = Debug|x86
+		{C05200E0-1D49-44BC-B19F-DE45A535EFC5}.Release|x86.ActiveCfg = Release|x86
+		{C05200E0-1D49-44BC-B19F-DE45A535EFC5}.Release|x86.Build.0 = Release|x86
+		{F6F44E5A-3B17-4466-9714-F6C8795E1B68}.Debug|x86.ActiveCfg = Debug|x86
+		{F6F44E5A-3B17-4466-9714-F6C8795E1B68}.Debug|x86.Build.0 = Debug|x86
+		{F6F44E5A-3B17-4466-9714-F6C8795E1B68}.Release|x86.ActiveCfg = Release|x86
+		{F6F44E5A-3B17-4466-9714-F6C8795E1B68}.Release|x86.Build.0 = Release|x86
+		{20F420F3-E585-4789-93D5-1C0198E9A839}.Debug|x86.ActiveCfg = Debug|x86
+		{20F420F3-E585-4789-93D5-1C0198E9A839}.Debug|x86.Build.0 = Debug|x86
+		{20F420F3-E585-4789-93D5-1C0198E9A839}.Release|x86.ActiveCfg = Release|x86
+		{20F420F3-E585-4789-93D5-1C0198E9A839}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Company\Company\bin\Debug\Company.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Company\Company\bin\Debug\Company.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Company\Company\bin\Debug\Company.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Company\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Company\Company\obj\Debug\Company.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\Session 02\Company\Company\obj\Debug\Company.pdb

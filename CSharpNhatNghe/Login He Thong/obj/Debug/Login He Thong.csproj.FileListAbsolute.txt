@@ -1,0 +1,19 @@
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\Login He Thong\bin\Debug\Login He Thong.exe.config
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\Login He Thong\bin\Debug\Login He Thong.exe
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\Login He Thong\bin\Debug\Login He Thong.pdb
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\Login He Thong\obj\Debug\Login He Thong.csprojResolveAssemblyReference.cache
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\Login He Thong\obj\Debug\Login_He_Thong.FDisplay.resources
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\Login He Thong\obj\Debug\Login_He_Thong.FLogin.resources
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\Login He Thong\obj\Debug\Login_He_Thong.Properties.Resources.resources
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\Login He Thong\obj\Debug\Login He Thong.csproj.GenerateResource.Cache
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\Login He Thong\obj\Debug\Login He Thong.exe
+c:\users\macos\documents\visual studio 2017\Projects\LoginWFA\Login He Thong\obj\Debug\Login He Thong.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Login He Thong\bin\Debug\Login He Thong.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Login He Thong\bin\Debug\Login He Thong.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Login He Thong\bin\Debug\Login He Thong.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Login He Thong\obj\Debug\Login_He_Thong.FDisplay.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Login He Thong\obj\Debug\Login_He_Thong.FLogin.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Login He Thong\obj\Debug\Login_He_Thong.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Login He Thong\obj\Debug\Login He Thong.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Login He Thong\obj\Debug\Login He Thong.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\CSharpNhatNghe\Login He Thong\obj\Debug\Login He Thong.pdb

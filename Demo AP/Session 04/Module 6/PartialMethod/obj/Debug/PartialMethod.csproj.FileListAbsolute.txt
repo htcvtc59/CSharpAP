@@ -1,0 +1,5 @@
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\PartialMethod\bin\Debug\PartialMethod.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\PartialMethod\bin\Debug\PartialMethod.pdb
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\PartialMethod\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\PartialMethod\obj\Debug\PartialMethod.exe
+C:\Users\cibervn\Desktop\dev\Examples\s4\Module 6\PartialMethod\obj\Debug\PartialMethod.pdb

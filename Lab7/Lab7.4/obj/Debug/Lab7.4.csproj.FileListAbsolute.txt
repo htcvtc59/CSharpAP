@@ -1,0 +1,6 @@
+c:\Users\MacOS\documents\visual studio 2017\Projects\Lab7\Lab7.4\obj\Debug\Lab7.4.csprojResolveAssemblyReference.cache
+c:\Users\MacOS\documents\visual studio 2017\Projects\Lab7\Lab7.4\bin\Debug\Lab7.4.exe.config
+c:\Users\MacOS\documents\visual studio 2017\Projects\Lab7\Lab7.4\bin\Debug\Lab7.4.exe
+c:\Users\MacOS\documents\visual studio 2017\Projects\Lab7\Lab7.4\bin\Debug\Lab7.4.pdb
+c:\Users\MacOS\documents\visual studio 2017\Projects\Lab7\Lab7.4\obj\Debug\Lab7.4.exe
+c:\Users\MacOS\documents\visual studio 2017\Projects\Lab7\Lab7.4\obj\Debug\Lab7.4.pdb

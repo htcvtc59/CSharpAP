@@ -1,0 +1,5 @@
+c:\users\macos\documents\visual studio 2017\Projects\Lab7\Lab7\bin\Debug\Lab7.exe.config
+c:\users\macos\documents\visual studio 2017\Projects\Lab7\Lab7\bin\Debug\Lab7.exe
+c:\users\macos\documents\visual studio 2017\Projects\Lab7\Lab7\bin\Debug\Lab7.pdb
+c:\users\macos\documents\visual studio 2017\Projects\Lab7\Lab7\obj\Debug\Lab7.exe
+c:\users\macos\documents\visual studio 2017\Projects\Lab7\Lab7\obj\Debug\Lab7.pdb

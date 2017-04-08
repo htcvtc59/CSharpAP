@@ -1,0 +1,22 @@
+c:\users\macos\documents\visual studio 2017\Projects\ASMAP\bin\Debug\ASMAP.exe.config
+c:\users\macos\documents\visual studio 2017\Projects\ASMAP\bin\Debug\ASMAP.exe
+c:\users\macos\documents\visual studio 2017\Projects\ASMAP\bin\Debug\ASMAP.pdb
+c:\users\macos\documents\visual studio 2017\Projects\ASMAP\obj\Debug\ASMAP.Properties.Resources.resources
+c:\users\macos\documents\visual studio 2017\Projects\ASMAP\obj\Debug\ASMAP.csproj.GenerateResource.Cache
+c:\users\macos\documents\visual studio 2017\Projects\ASMAP\obj\Debug\ASMAP.exe
+c:\users\macos\documents\visual studio 2017\Projects\ASMAP\obj\Debug\ASMAP.pdb
+c:\users\macos\documents\visual studio 2017\Projects\ASMAP\obj\Debug\ASMAP.FrmMain.resources
+c:\users\macos\documents\visual studio 2017\Projects\ASMAP\obj\Debug\ASMAP.FrmExam.resources
+c:\users\macos\documents\visual studio 2017\Projects\ASMAP\obj\Debug\ASMAP.FrmQuestion.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\ASMAP\obj\Debug\ASMAP.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\ASMAP\bin\Debug\ASMAP.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\ASMAP\obj\Debug\ASMAP.exe
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\ASMAP\obj\Debug\ASMAP.pdb
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\ASMAP\bin\Debug\ASMAP.exe
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\ASMAP\bin\Debug\ASMAP.pdb
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\ASMAP\obj\Debug\ASMAP.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\ASMAP\obj\Debug\ASMAP.FrmExam.resources
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\ASMAP\obj\Debug\ASMAP.FrmMain.resources
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\ASMAP\obj\Debug\ASMAP.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\ASMAP\obj\Debug\ASMAP.FrmQuestion.resources
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\ASMAP\obj\Debug\ASMAP.csproj.GenerateResource.Cache

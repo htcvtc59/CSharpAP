@@ -1,0 +1,10 @@
+D:\FAPTECH\C#\CLASS\C0909I\Class7\TestSortedList\obj\Debug\ResolveAssemblyReference.cache
+D:\FAPTECH\C#\CLASS\C0909I\Class7\TestSortedList\bin\Debug\TestSortedList.exe
+D:\FAPTECH\C#\CLASS\C0909I\Class7\TestSortedList\bin\Debug\TestSortedList.pdb
+D:\FAPTECH\C#\CLASS\C0909I\Class7\TestSortedList\obj\Debug\TestSortedList.exe
+D:\FAPTECH\C#\CLASS\C0909I\Class7\TestSortedList\obj\Debug\TestSortedList.pdb
+D:\FAPTECH\C#\CLASS\Class7\Class7\TestSortedList\bin\Debug\TestSortedList.exe
+D:\FAPTECH\C#\CLASS\Class7\Class7\TestSortedList\bin\Debug\TestSortedList.pdb
+D:\FAPTECH\C#\CLASS\Class7\Class7\TestSortedList\obj\Debug\ResolveAssemblyReference.cache
+D:\FAPTECH\C#\CLASS\Class7\Class7\TestSortedList\obj\Debug\TestSortedList.exe
+D:\FAPTECH\C#\CLASS\Class7\Class7\TestSortedList\obj\Debug\TestSortedList.pdb

@@ -1,0 +1,8 @@
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\RadioButton\obj\Debug\RadioButton.Form1.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\RadioButton\obj\Debug\RadioButton.csproj.GenerateResource.Cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\RadioButton\obj\Debug\RadioButton.pdb

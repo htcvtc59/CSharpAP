@@ -1,0 +1,11 @@
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\WebClientDemo\bin\Debug\WebClientDemo.exe.config
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\WebClientDemo\bin\Debug\WebClientDemo.exe
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\WebClientDemo\bin\Debug\WebClientDemo.pdb
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\WebClientDemo\obj\Debug\WebClientDemo.exe
+C:\Users\Macintosh\Documents\Visual Studio 2012\Projects\FileDemo\WebClientDemo\obj\Debug\WebClientDemo.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\WebClientDemo\bin\Debug\WebClientDemo.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\WebClientDemo\bin\Debug\WebClientDemo.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\WebClientDemo\bin\Debug\WebClientDemo.pdb
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\WebClientDemo\obj\Debug\WebClientDemo.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\WebClientDemo\obj\Debug\WebClientDemo.exe
+C:\Users\MacOS\Documents\Visual Studio 2017\Projects\Demo AP\FileDemo\WebClientDemo\obj\Debug\WebClientDemo.pdb

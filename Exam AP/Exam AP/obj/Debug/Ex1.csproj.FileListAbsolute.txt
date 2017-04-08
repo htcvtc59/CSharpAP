@@ -1,0 +1,9 @@
+C:\Users\MacOS\documents\visual studio 2017\Projects\Exam AP\Exam AP\bin\Debug\Exam AP.exe.config
+C:\Users\MacOS\documents\visual studio 2017\Projects\Exam AP\Exam AP\bin\Debug\Exam AP.exe
+C:\Users\MacOS\documents\visual studio 2017\Projects\Exam AP\Exam AP\bin\Debug\Exam AP.pdb
+C:\Users\MacOS\documents\visual studio 2017\Projects\Exam AP\Exam AP\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\Users\MacOS\documents\visual studio 2017\Projects\Exam AP\Exam AP\obj\Debug\Exam AP.exe
+C:\Users\MacOS\documents\visual studio 2017\Projects\Exam AP\Exam AP\obj\Debug\Exam AP.pdb
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\Exam AP\Exam AP\bin\Debug\Exam AP.exe.config
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\Exam AP\Exam AP\obj\Debug\Exam AP.exe
+C:\Users\MacOS\Documents\Visual Studio 2015\Projects\CSharp AP\Exam AP\Exam AP\obj\Debug\Exam AP.pdb

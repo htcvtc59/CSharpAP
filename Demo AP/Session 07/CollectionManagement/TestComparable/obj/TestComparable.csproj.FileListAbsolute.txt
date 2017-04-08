@@ -1,0 +1,10 @@
+D:\FAPTECH\C#\CLASS\C0909I\Class7\TestComparable\obj\Debug\ResolveAssemblyReference.cache
+D:\FAPTECH\C#\CLASS\C0909I\Class7\TestComparable\bin\Debug\TestComparable.exe
+D:\FAPTECH\C#\CLASS\C0909I\Class7\TestComparable\bin\Debug\TestComparable.pdb
+D:\FAPTECH\C#\CLASS\C0909I\Class7\TestComparable\obj\Debug\TestComparable.exe
+D:\FAPTECH\C#\CLASS\C0909I\Class7\TestComparable\obj\Debug\TestComparable.pdb
+D:\FAPTECH\C#\CLASS\Class7\Class7\TestComparable\obj\Debug\TestComparable.exe
+D:\FAPTECH\C#\CLASS\Class7\Class7\TestComparable\obj\Debug\TestComparable.pdb
+D:\FAPTECH\C#\CLASS\Class7\Class7\TestComparable\bin\Debug\TestComparable.exe
+D:\FAPTECH\C#\CLASS\Class7\Class7\TestComparable\bin\Debug\TestComparable.pdb
+D:\FAPTECH\C#\CLASS\Class7\Class7\TestComparable\obj\Debug\ResolveAssemblyReference.cache

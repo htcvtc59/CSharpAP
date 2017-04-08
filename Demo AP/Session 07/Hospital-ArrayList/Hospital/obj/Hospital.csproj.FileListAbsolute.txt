@@ -1,0 +1,2 @@
+D:\FAPTECH\C#\CLASS\Class7\SourceCodeModule13\Demo1\Hospital\Hospital\obj\Debug\Hospital.exe
+D:\FAPTECH\C#\CLASS\Class7\SourceCodeModule13\Demo1\Hospital\Hospital\obj\Debug\Hospital.pdb
